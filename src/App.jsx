@@ -44,6 +44,7 @@ function App() {
         agregarValor
       </button>
        <p>{valor}</p>
+       <p>Archivo</p>
     </>
 
     
